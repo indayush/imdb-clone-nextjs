@@ -5,8 +5,8 @@ import Header from "@/components/Header";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "IMDB Application",
-  description: "IMDB App Demo made on NextJS",
+  title: "IMDb Application",
+  description: "IMDb Demo App made on NextJS",
 };
 
 export default function RootLayout({ children }) {
