@@ -9,7 +9,7 @@ export default function Results({ results }) {
         //   <h2>{result.original_title}</h2>
         // </div>
         <Card key={result.id} result={result}>
-          Card
+          {/* Card */}
         </Card>
       ))}
     </div>
